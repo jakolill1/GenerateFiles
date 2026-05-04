@@ -1,0 +1,6 @@
+# Ignore generated files
+*.txt
+*.csv
+*.log
+*.md
+*.json
